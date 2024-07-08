@@ -27,7 +27,7 @@ const Home = () => (
         <div className="row mt-4">
           <div className="col-md-4">
             <div className="card text-center">
-              <img src="/images/beginner.jpg" className="card-img-top program-image" alt="Beginner Program" />
+              <img src="/PeakClimb/images/beginner.jpg" className="card-img-top program-image" alt="Beginner Program" />
               <div className="card-body">
                 <h3 className="card-title">Beginner Program</h3>
                 <p className="card-text">
@@ -38,7 +38,7 @@ const Home = () => (
           </div>
           <div className="col-md-4">
             <div className="card text-center">
-              <img src="/images/intermediate.jpg" className="card-img-top program-image" alt="Intermediate Program" />
+              <img src="/PeakClimb/images/intermediate.jpg" className="card-img-top program-image" alt="Intermediate Program" />
               <div className="card-body">
                 <h3 className="card-title">Intermediate Program</h3>
                 <p className="card-text">
@@ -49,7 +49,7 @@ const Home = () => (
           </div>
           <div className="col-md-4">
             <div className="card text-center">
-              <img src="/images/expert.jpg" className="card-img-top program-image" alt="Advanced Program" />
+              <img src="/PeakClimb/images/expert.jpg" className="card-img-top program-image" alt="Advanced Program" />
               <div className="card-body">
                 <h3 className="card-title">Advanced Program</h3>
                 <p className="card-text">
